@@ -18,7 +18,7 @@
 
 <body>
 
-  <nav class="navbar navbar-expand-lg navbar-dark" style="background-color: #ac00e6;">
+  <nav class="navbar navbar-expand-lg navbar-dark" style="background-color: #ff80ff;">
     <div class="container-fluid">
       <a class="navbar-brand logo" href="index.php"><img src="img/logo.png" alt="logo" height=50px width=50px></a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">

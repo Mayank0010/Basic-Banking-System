@@ -137,7 +137,7 @@ if(isset($_POST['submit']))
             <input type="number" class="form-control" name="amount" required>   
             <br><br>
                 <div class="text-center" >
-            <button class="btn btn-primary" name="submit" type="submit" id="btn">Transfer</button>
+            <button class="btn btn-success" name="submit" type="submit" id="btn">Send</button>
             </div>
         </form>
     </div>
